@@ -16,6 +16,10 @@ const TableList=()=>{
     <td>gajula mahesh</td>
     <td>23</td>
     <td>civil-B</td>
+
+
+
+    
   </tr>
   <tr>
     <td>reventh</td>
